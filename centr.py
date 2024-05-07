@@ -16,4 +16,8 @@ executor.start_polling(dp)
 #bot.polling(none_stop=True)
 
 
-# git
+# git add .
+# git commit -m "first"
+# git push
+
+# git status
